@@ -16,7 +16,7 @@
   "scripts": {
     "test": "mocha"
   },
-  "repository": "",
+  "repository": "https://github.com/jden/characterize",
   "keywords": [
     "statistics",
     "data"
